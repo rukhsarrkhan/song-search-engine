@@ -1,0 +1,62 @@
+rkhan@Rukhsars-Air CS600 % cd song-search-engine 
+rkhan@Rukhsars-Air song-search-engine % python3 songSearchEngine.py 
+
+Searching for music made easy! Try search for a word related to music:
+
+Type your word to search or type quit/exit/q to exit the Search engine: blackpink
+Word that you searched is present in:  Blackpink - Wikipedia.html
+Word that you searched is present in:  On the Ground - Wikipedia.html
+Word that you searched is present in:  Ready for Love (Blackpink song) - Wikipedia.html
+Word that you searched is present in:  BTS - Wikipedia.html
+Word that you searched is present in:  Billboard Global 200 - Wikipedia.html
+
+
+Type your word to search or type quit/exit/q to exit the Search engine: bts
+Word that you searched is present in:  BTS - Wikipedia.html
+Word that you searched is present in:  Map of the Soul_ Persona - Wikipedia.html
+Word that you searched is present in:  Love Yourself_ Answer - Wikipedia.html
+Word that you searched is present in:  Billboard Global 200 - Wikipedia.html
+Word that you searched is present in:  Blackpink - Wikipedia.html
+Word that you searched is present in:  On the Ground - Wikipedia.html
+
+
+Type your word to search or type quit/exit/q to exit the Search engine: lover
+Word that you searched is present in:  Lover (album) - Wikipedia.html
+Word that you searched is present in:  Lover (Taylor Swift song) - Wikipedia.html
+Word that you searched is present in:  Tum Hi Ho - Wikipedia.html
+Word that you searched is present in:  Drivers License (song) - Wikipedia.html
+Word that you searched is present in:  BTS - Wikipedia.html
+
+
+Type your word to search or type quit/exit/q to exit the Search engine: rose
+Word that you searched is present in:  On the Ground - Wikipedia.html
+Word that you searched is present in:  BTS - Wikipedia.html
+Word that you searched is present in:  Billboard Global 200 - Wikipedia.html
+Word that you searched is present in:  Blackpink - Wikipedia.html
+Word that you searched is present in:  Lover (album) - Wikipedia.html
+Word that you searched is present in:  Drivers License (song) - Wikipedia.html
+Word that you searched is present in:  Map of the Soul_ Persona - Wikipedia.html
+Word that you searched is present in:  Lover (Taylor Swift song) - Wikipedia.html
+
+
+Type your word to search or type quit/exit/q to exit the Search engine: wow
+Does not exist in any html files
+
+Type your word to search or type quit/exit/q to exit the Search engine: rukhsar
+Does not exist in any html files
+
+Type your word to search or type quit/exit/q to exit the Search engine: heartbreak
+Word that you searched is present in:  Drivers License (song) - Wikipedia.html
+Word that you searched is present in:  Lover (album) - Wikipedia.html
+Word that you searched is present in:  Lover (Taylor Swift song) - Wikipedia.html
+Word that you searched is present in:  On the Ground - Wikipedia.html
+
+
+Type your word to search or type quit/exit/q to exit the Search engine: teddy
+Word that you searched is present in:  On the Ground - Wikipedia.html
+Word that you searched is present in:  Ready for Love (Blackpink song) - Wikipedia.html
+Word that you searched is present in:  Blackpink - Wikipedia.html
+
+
+Type your word to search or type quit/exit/q to exit the Search engine: exit
+rkhan@Rukhsars-Air song-search-engine % 
